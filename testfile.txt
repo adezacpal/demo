@@ -1,1 +1,2 @@
 Writing an automation text.
+Author: Paul
