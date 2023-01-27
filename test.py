@@ -1,3 +1,3 @@
-Updating test file.
+Updating test file
 
-Author: Paul
+Author: IBT
